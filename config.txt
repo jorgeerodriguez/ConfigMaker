@@ -1,0 +1,7 @@
+no logging buffered informational
+no logging console informational
+no logging monitor informational
+logging buffered notification
+logging console notification
+logging monitor notification
+hooostname

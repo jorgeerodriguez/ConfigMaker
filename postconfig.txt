@@ -1,0 +1,4 @@
+show ip int brief
+sh ver
+sh line vty 0 4
+sh logging
